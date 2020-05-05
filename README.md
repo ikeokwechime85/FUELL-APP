@@ -15,4 +15,4 @@ Fleet management also comes with a huge burden as some unscrupulous drivers may 
 
 ### THE SOLUTION 
 In order to solve most of the problems above we came up with FUELL. 
-Fuell is an app that gives customers the liberty to have their fuel delivered to them at any time, any location, and specific quantities and price range. The app gives you control over these mentioned.
+Fuell is an app that gives customers the liberty to have their fuel delivered to them at any time, any location, and specific quantities and price range. The app gives you control over these mentioned parameters as well as discounts according to customer loyalty and real time tracking. MORE LIKE AN UBER FOR FUEL!
