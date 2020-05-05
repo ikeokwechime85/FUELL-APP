@@ -16,3 +16,23 @@ Fleet management also comes with a huge burden as some unscrupulous drivers may 
 ### THE SOLUTION 
 In order to solve most of the problems above we came up with FUELL. 
 Fuell is an app that gives customers the liberty to have their fuel delivered to them at any time, any location, and specific quantities and price range. The app gives you control over these mentioned parameters as well as discounts according to customer loyalty and real time tracking. MORE LIKE AN UBER FOR FUEL!
+
+##### Adjust Pin to Vehicle Location (Location-based GPS)
+
+##### Select Type of fuel, Quantity, and Time Window
+
+##### In-App Text or Call
+Clients like to be updated as their package is arriving in transit. This allows them communicate with the drivers.
+
+##### Promotions
+We will be adding promo codes and coupons, this will help us retain customers as they will get various offers at discounted offers.
+
+##### Monthly Membership 
+This helps the customer eliminate daily request or order for the product (This option guarantees that the client gets fuel always on     schedule for the rest of the month according to clients demand rate)
+
+##### Payment
+A payment gateway is to be incorporated to allow an in app payment system linked to the clients Debit or credit card. An option to      fund The Fuell App wallet is also available.
+
+##### Real time tracking 
+Customers are always curious about the location of their parcel or any other services. We will include real-time tracking of delivery trucks to let your users know the exact location of the truck. So instead of incessantly waiting, they could invest their valuable time in other worthy tasks.
+
